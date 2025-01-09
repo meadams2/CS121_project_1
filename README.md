@@ -13,9 +13,12 @@ In my free time, I enjoy reading, cuddling with my cat, and destroying my roomma
 
 
 **This year I hope to learn:**
-[] C
-[] C++
-[] Java
+
+[ ] C
+
+[ ] C++
+
+[ ] Java
 
 
 ## Hello.py Information
