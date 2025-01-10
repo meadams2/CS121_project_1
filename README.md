@@ -2,7 +2,7 @@
 
 ## Biography
 
-Hello! I'm Marianne Adams. I'm a (credit-wise) senior *Applied Mathematics* major with a minor in Computer Science. I just transferred here in the Fall semester, and I'm on track to graduate in Fall 2026. 
+Hello! I'm Marianne Adams. I'm a (credit-wise) senior *Applied Mathematics* major with a minor in Computer Science. I just transferred here in the Fall semester, and I'm on track to graduate in Fall 2026. After graduation, I hope to go to graduate school to get my PhD in Applied Mathematics and/or Computer Science. I also hope to go on and work either as a Software Engineer or with the NSA as an Intelligence Analyst. 
 
 In my free time, I enjoy reading, cuddling with my cat, and destroying my roommate at MarioKart. 
 
