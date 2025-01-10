@@ -26,7 +26,7 @@ In my free time, I enjoy reading, cuddling with my cat, and destroying my roomma
 In my hello.py document, I chose to include a conditional statement: 
 
 ```
-if name == "Andy:
+if name == "Andy":
 	print("Hi Andy! Please give me an A.")
 else:
 	print(f"Hi {name}!")
